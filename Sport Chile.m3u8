@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Sport",TNT SPORTS ESTADIO HD
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Sport",TNT SPORTS ESTADIO HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/52986
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Sport",TNT SPORTS PREMIUM HD
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Sport",TNT SPORTS PREMIUM HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/52984
